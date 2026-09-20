@@ -33,7 +33,7 @@ GROUP BY id_cliente
 HAVING COUNT(*) > 1;
 
 
-
+-- para este ejercicio final de la práctica necesite utilizar la IA en su totalidad, a diferencia del resto
 WITH ResumenMensual AS (
     SELECT 
         MONTH(fecha_venta) AS mes,
