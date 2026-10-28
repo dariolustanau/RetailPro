@@ -1,5 +1,5 @@
 Proyecto RetailPro
-Descripción
+
 Proyecto de análisis de datos desarrollado para optimizar la gestión comercial de RetailPro, integrando el procesamiento de bases de datos relacionales y la visualización de indicadores clave para la toma de decisiones.
 
 Herramientas utilizadas
